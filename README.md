@@ -82,4 +82,11 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- GitHub: [the-developer-306](https://github.com/the-developer-306)
+- Email: [whilealivecode127.0.0.1@gmail.com](mailto:whilealivecode127.0.0.1@gmail.com)
